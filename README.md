@@ -8,7 +8,7 @@ The tutorial files are in the "download" directory, so please open up this direc
 
 The tutorial covers the following material:
 
-- [ ] **Tutorial 0:** Programming Basics
+- [x] **Tutorial 0:** Programming Basics
 - [ ] **Tutorial 1:** Unigram Language Models
 - [ ] **Tutorial 2:** Bigram Language Models
 - [ ] **Tutorial 3:** Word Segmentation
