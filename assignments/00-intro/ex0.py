@@ -6,6 +6,7 @@ def word_count(file_name):
 
     with open(file_name) as f:
         for line in f:
+            # split line into words
             words = line.strip().split(' ')
 
             for word in words:
